@@ -1,4 +1,4 @@
 # VXEH
 Console HEX &amp; ASCII viewer
 
-![alt text](http://url/to/img.png)
+![Preview](https://github.com/GCaldL/VXEH/blob/master/IMG/preview.PNG)
